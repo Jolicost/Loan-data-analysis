@@ -15,6 +15,6 @@ Aquesta pràctica consta de la neteja i anàlisi de les dades del dataset **Loan
 * M2.951_20201_Pràctica2_LoanStatsDataset.ipynb: Llibreta de Jupyter amb el codi i el desenvolupament de la pràctica.
 * M2.951_20201_Pràctica2_LoanStatsDataset.pdf: PDF autogenerat amb Latex a partir del fitxer .ipynb.
 * README.md: aquest mateix fitxer.
-* requirements.txt: llibreríes requerides per executar el projecte.
+* requirements.txt: llibreries requerides per executar el projecte.
 
 
