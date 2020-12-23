@@ -6,7 +6,7 @@ Segona pràctica de l'assignatura tipologia i cicle de vida de les dades.
 * Ana Cortés Besolí
 * Joan Oliva Costas
 
-Aquesta pràctica consta de la neteja i anàlisi de les dades del dataset **LoanStats**. Es pot trobar el dataset a la següent (URL)[https://bigml.com/user/bigml/gallery/dataset/4f8b5eae155268783e00000d?reload].
+Aquesta pràctica consta de la neteja i anàlisi de les dades del dataset **LoanStats**. Es pot trobar el dataset a la següent [URL](https://bigml.com/user/bigml/gallery/dataset/4f8b5eae155268783e00000d?reload).
 
 ## Estructura dels fitxers
 * LICENSE: Llicència del codi.
